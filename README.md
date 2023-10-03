@@ -10,7 +10,7 @@ Durante o bootcamp, exploramos os fundamentos do desenvolvimento Java, desde a s
 
 ## Projetos
 
-- [Projeto 1: Sistema de Conta Bancária](./modulo-2-poo-java/conta-bancaria)
+- [Projeto 1: Sistema de Conta Bancária](https://github.com/dayaneCortez/dio-trilha-java-basico/tree/main/conta-banco)
 
 ## Como Usar
 
